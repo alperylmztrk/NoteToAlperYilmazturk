@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginEnd">17dp</dimen>
+    <dimen name="marginBottom">17dp</dimen>
+    <dimen name="marginTop_1">70dp</dimen>
+    <dimen name="marginTop_2">20dp</dimen>
+    <dimen name="marginTop_3">266dp</dimen>
+    <dimen name="checkMarginTop">5dp</dimen>
+    <dimen name="buttonMarginStart">56dp</dimen>
+    <dimen name="buttonMarginEnd">56dp</dimen>
+    <dimen name="buttonMarginBottom">150dp</dimen>
+    <dimen name="marginStart">20dp</dimen>
+    <dimen name="marginTop">18dp</dimen>
+    <dimen name="marnginEnd">2dp</dimen>
+    <dimen name="marginEnd_2">20dp</dimen>
+    <dimen name="marginStart_2">2dp</dimen>
+    <dimen name="marginTop_4">65dp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="marginTop_5">126dp</dimen>
+    <dimen name="marginBottom_1">35dp</dimen>
+</resources>
